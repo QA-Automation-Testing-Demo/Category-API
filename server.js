@@ -1459,54 +1459,7 @@
     sessions: {},
   };
   var seedData = {
-    memes: [
-      {
-        _ownerId: "35c62d76-8152-4626-8712-eeb96381bea8",
-        title: "Debugging",
-        description:
-          "Programming is often touted as a smart and lucrative career path. It's a job that (sometimes) offers flexibility and great benefits. But it's far from sunshine and Nyan Cat rainbows. The hours are long. The mistakes are frustrating. And your eyesight is almost guaranteed to suffer. These memes cover most of the frustration (and funny moments) of programming. At least we can laugh through the pain. ",
-        imageUrl: "/images/2.png",
-        _createdOn: 1616162253496,
-        _id: "0",
-      },
-      {
-        _ownerId: "35c62d76-8152-4626-8712-eeb96381bea8",
-        title: "Java Script",
-        description:
-          "Programming is often touted as a smart and lucrative career path. It's a job that (sometimes) offers flexibility and great benefits. But it's far from sunshine and Nyan Cat rainbows. The hours are long. The mistakes are frustrating. And your eyesight is almost guaranteed to suffer. These memes cover most of the frustration (and funny moments) of programming. At least we can laugh through the pain. ",
-        imageUrl: "/images/4.png",
-        _createdOn: 1616162364032,
-        _id: "1",
-      },
-      {
-        _ownerId: "35c62d76-8152-4626-8712-eeb96381bea8",
-        title: "Yes, arrays are objects",
-        description:
-          "Programming is often touted as a smart and lucrative career path. It's a job that (sometimes) offers flexibility and great benefits. But it's far from sunshine and Nyan Cat rainbows. The hours are long. The mistakes are frustrating. And your eyesight is almost guaranteed to suffer. These memes cover most of the frustration (and funny moments) of programming. At least we can laugh through the pain.",
-        imageUrl: "/images/6.png",
-        _createdOn: 1616162636863,
-        _updatedOn: 1616162653624,
-        _id: "2",
-      },
-      {
-        _ownerId: "847ec027-f659-4086-8032-5173e2f9c93a",
-        title: "Java Script joke",
-        description:
-          "Being a programmer is a fun job. And many funny incidents occur throughout a programmer’s career. Here are a few jokes that can be relatable to you as a programmer.",
-        imageUrl: "/images/1.png",
-        _createdOn: 1616577434701,
-        _id: "f4cccd24-a1db-4f3f-9982-e54f4f00ad5c",
-      },
-      {
-        _ownerId: "847ec027-f659-4086-8032-5173e2f9c93a",
-        title: "Bad code can present some problems",
-        description:
-          "Being a programmer is a fun job. And many funny incidents occur throughout a programmer’s career. Here are a few jokes that can be relatable to you as a programmer.",
-        imageUrl: "/images/3.png",
-        _createdOn: 1616577827124,
-        _id: "03795138-168c-4c88-a943-118875ad6042",
-      },
-    ],
+    
     categories: [
       {slug: 'general', name: 'General Category'},
       {slug: 'fun', name: 'Fun Stories Category'},
